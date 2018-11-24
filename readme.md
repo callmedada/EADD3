@@ -81,14 +81,6 @@ Our build system is driven by [Browserify](http://browserify.org), which is buil
 
 To create the visualizations we used [D3](http://d3js.org), a Javascript library for manipulating documents based on data. We recommend that you familiarize yourself with [D3 Selections](http://github.com/mbostock/d3/wiki/Selections) and [data joins](http://bost.ocks.org/mike/join/).
 
-## Contact Us
-We're the development team with VizworX who put this project together for the NEB. We aren't able to provide extensive support for this project, but you're welcome to reach out with questions and thoughts!
-
-* Patrick King - patrick.king@vizworx.com
-* Alaa Azazi - alaa.azazi@vizworx.com
-* Ben Cousins - ben.cousins@vizworx.com
-* Stephanie Sachrajda
-
 ## Known Issues
 
 * This application was *not* designed to work resolutions much smaller than 1024*768, it won't look very good on your smartphone. We have attempted to apply responsive design principles throughout, but mobiles were out of scope. 
@@ -174,13 +166,6 @@ Notre système de génération est piloté par [Browserify](http://browserify.or
 
 Pour générer les visualisations, nous avons utilisé [D3](http://d3js.org), une bibliothèque Javascript permettant de manipuler des documents à partir de données. Nous vous recommandons de vous familiariser avec [D3 Selections](http://github.com/mbostock/d3/wiki/Selections) et [data joins](http://bost.ocks.org/mike/join/).
 
-## Contactez-nous
-L’équipe de développement de VizworX a réalisé ce projet pour le compte de l’Office. Nous ne sommes pas en mesure d’assurer un soutien complet pour ce projet, mais vos questions et vos suggestions sont les bienvenues!
-
-* Patrick King, patrick.king@vizworx.com
-* Alaa Azazi, alaa.azazi@vizworx.com
-* Ben Cousins, ben.cousins@vizworx.com
-* Stephanie Sachrajda
 
 ## Problèmes connus
 
